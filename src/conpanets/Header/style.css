@@ -1,0 +1,101 @@
+.section {
+  color: white;
+  font-size: 26px;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  gap: 80px;
+}
+.section--nav {
+  position: relative;
+  top: 20px;
+  left: 30px;
+}
+.w1 {
+  margin-left: 30px;
+  width: 60pc;
+  height: 50px;
+  font-size: 18px;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  border: none;
+}
+.btnin button {
+  margin-left: -25px;
+  z-index: 1;
+  padding: 12px 30px;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  border: none;
+  color: white;
+  background: rgb(8, 230, 207);
+  font-size: 20px;
+  border: 3px solid black;
+}
+/* ?????????????????????? */
+#header1 {
+  background: rgb(4, 196, 234);
+}
+.section1 {
+  background: url(https://hips.hearstapps.com/vidthumb/images/margot-robbie-ryan-gosling-barbie-649aaae87dfeb.jpg)
+  top/cover;
+  height: 500px;
+}
+.section1 {
+  color: white;
+  font-size: 26px;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  gap: 80px;
+}
+.section--nav1 {
+  position: relative;
+  top: 20px;
+  left: 30px;
+}
+.w12 {
+  margin-left: 30px;
+  width: 60pc;
+  height: 50px;
+  font-size: 18px;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  border: none;
+}
+
+#section {
+  height: 600px;
+}
+.acter {
+  display: flex;
+  gap: 30px;
+}
+.acter__p {
+  padding-top: 30px;
+}
+.acter__p button{
+  border: none;
+  background: white;
+  color: blue;
+}
+
+#search{
+  padding: 60px 0;
+}
+.search{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: space-between;
+}
